@@ -1,0 +1,6 @@
+start_main
+var mario: int = 25
+var franco: int = borrow_mutable(mario)
+out franco
+
+end_main
